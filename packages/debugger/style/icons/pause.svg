@@ -1,6 +1,1 @@
-<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <g class="jp-icon3" fill="#616161">
-        <path d="m 7,6 h 4 V 18 H 7 Z" />
-        <path d="m 13,6 h 4 v 12 h -4 z" />
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="#616161" class="jp-icon3"><path d="m 7,6 h 4 V 18 H 7 Z"/><path d="m 13,6 h 4 v 12 h -4 z"/></g></svg>
