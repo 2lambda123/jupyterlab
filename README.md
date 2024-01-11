@@ -7,7 +7,7 @@
 
 # [JupyterLab](https://jupyterlab.readthedocs.io)
 
-**Note:** The GitHub Actions run failed and requires further investigation. Please refer to the [issue tracker](https://github.com/jupyterlab/jupyterlab/issues) for more details.
+**Note:** If the GitHub Actions run fails, please report the issue with specific error logs and a description in the [issue tracker](https://github.com/jupyterlab/jupyterlab/issues) for more details. Please refer to the [issue tracker](https://github.com/jupyterlab/jupyterlab/issues) for more details.
 
 [![PyPI version](https://badge.fury.io/py/jupyterlab.svg)](https://badge.fury.io/py/jupyterlab)
 [![Downloads](https://static.pepy.tech/badge/jupyterlab/month)](https://pepy.tech/project/jupyterlab)
@@ -101,6 +101,8 @@ See our [documentation](http://jupyterlab.readthedocs.io/en/latest/getting_start
 We encourage you to ask questions on the [Discourse forum](https://discourse.jupyter.org/c/jupyterlab). A question answered there can become a useful resource for others.
 
 ### Bug report
+
+If you encounter any issues, please provide specific error logs and a description in the [issue tracker](https://github.com/jupyterlab/jupyterlab/issues) for assistance.
 
 To report a bug please read the [guidelines](https://jupyterlab.readthedocs.io/en/latest/getting_started/issue.html) and then open a [Github issue](https://github.com/jupyterlab/jupyterlab/issues/new?labels=bug%2C+status%3ANeeds+Triage&template=bug_report.md). To keep resolved issues self-contained, the [lock bot](https://github.com/apps/lock) will lock closed issues as resolved after a period of inactivity. If a related discussion is still needed after an issue is locked, please open a new issue and reference the old issue.
 
