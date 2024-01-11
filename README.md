@@ -7,6 +7,8 @@
 
 # [JupyterLab](https://jupyterlab.readthedocs.io)
 
+**Note:** The GitHub Actions run failed and requires further investigation. Please refer to the [issue tracker](https://github.com/jupyterlab/jupyterlab/issues) for more details.
+
 [![PyPI version](https://badge.fury.io/py/jupyterlab.svg)](https://badge.fury.io/py/jupyterlab)
 [![Downloads](https://static.pepy.tech/badge/jupyterlab/month)](https://pepy.tech/project/jupyterlab)
 [![Build Status](https://github.com/jupyterlab/jupyterlab/workflows/Linux%20Tests/badge.svg)](https://github.com/jupyterlab/jupyterlab/actions?query=branch%3Amain+workflow%3A%22Linux+Tests%22)
