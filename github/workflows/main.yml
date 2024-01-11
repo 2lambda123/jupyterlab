@@ -58,6 +58,10 @@ jobs:
       - name: Error Handling and Reporting
         run: |
           # Add error handling and reporting mechanisms here
+        - name: Notify Failures
+          if: failure()
+          run: |
+            # Add notification or alert for failure
       - name: Complete Workflow
         run: |
           # Add completion command here
