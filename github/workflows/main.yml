@@ -49,9 +49,12 @@ jobs:
         # Updated to add test step
         run: |
           # Add test command here
-      - name: Deploy Project
+      - name: Deploy to Production
         run: |
-          # Add deployment command here
+          # Add deployment command for production here
+      - name: Deploy to Staging
+        run: |
+          # Add deployment command for staging here
       - name: Error Handling and Reporting
         run: |
           # Add error handling and reporting mechanisms here
