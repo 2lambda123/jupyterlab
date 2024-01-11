@@ -37,10 +37,16 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Build project
+        run: |
+          # Add build command here
+        # Updated to add build step
       - name: Build Project
         run: |
           # Add build command here
       - name: Run tests
+        run: |
+          # Add test command here
+        # Updated to add test step
         run: |
           # Add test command here
       - name: Deploy Project
