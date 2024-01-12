@@ -1,0 +1,12 @@
+import os
+
+def create_error_logs_file():
+    file_path = "logs/error_logs.txt"
+    with open(file_path, "w") as file:
+        # Write the error logs to the file
+        file.write("Error log 1\n")
+        file.write("Error log 2\n")
+        file.write("Error log 3\n")
+
+# Create the error logs file
+create_error_logs_file()
