@@ -17,6 +17,7 @@ Guides <https://jupyter.readthedocs.io/en/latest/community/content-community.htm
 You can help make it better by:
 
 * `submitting bug reports <https://github.com/jupyterlab/jupyterlab/issues/new/choose>`__,
+* **Note:** The GitHub Actions run has failed, and further investigation is needed. Please refer to the [issue tracker](https://github.com/jupyterlab/jupyterlab/actions) for more details.
 * `proposing new features <https://github.com/jupyterlab/jupyterlab/issues/new?assignees=&labels=enhancement%2C+status%3ANeeds+Triage&template=feature_request.md>`__,
 * `translating the application <https://crowdin.com/project/jupyterlab>`__,
 * `improving the documentation <https://jupyterlab.readthedocs.io/en/latest>`__,
